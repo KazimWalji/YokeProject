@@ -11,6 +11,7 @@
 		D61F1B33265891490001521E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D61F1B32265891490001521E /* ContentView.swift */; };
 		D61F1B352658914A0001521E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D61F1B342658914A0001521E /* Assets.xcassets */; };
 		D61F1B382658914A0001521E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D61F1B372658914A0001521E /* Preview Assets.xcassets */; };
+		D61F1B402658AA670001521E /* FetchData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D61F1B3F2658AA670001521E /* FetchData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		D61F1B342658914A0001521E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D61F1B372658914A0001521E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D61F1B392658914A0001521E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D61F1B3F2658AA670001521E /* FetchData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				D61F1B30265891490001521E /* MusicViewerApp.swift */,
 				D61F1B32265891490001521E /* ContentView.swift */,
+				D61F1B3F2658AA670001521E /* FetchData.swift */,
 				D61F1B342658914A0001521E /* Assets.xcassets */,
 				D61F1B392658914A0001521E /* Info.plist */,
 				D61F1B362658914A0001521E /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D61F1B33265891490001521E /* ContentView.swift in Sources */,
+				D61F1B402658AA670001521E /* FetchData.swift in Sources */,
 				D61F1B31265891490001521E /* MusicViewerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct MusicViewerApp: App {
     var body: some Scene {
